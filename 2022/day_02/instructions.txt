@@ -1,0 +1,32 @@
+// Rock paper scissors
+
+// First column is opponent
+// A = rock
+// B = paper
+// C = scissors
+
+// Puzzle 1: Second column is response
+// X = rock
+// Y = paper
+// Z = scissors
+
+// Puzzle 2: Second column is ending
+// X = lose
+// Y = draw
+// Z = win
+
+// Total score = sum of scores for each round
+// Score for each round = selected shape + outcome
+
+// Shape value:
+// rock = 1
+// paper = 2
+// scissors = 3
+
+// Outcome value:
+// lost = 0
+// draw = 3
+// win = 6
+
+// Puzzle 1 example result: 15
+// Puzzle 2 example result: 12
